@@ -1,0 +1,19 @@
+5 Largest Anagrams Family
+Size: 12[spear, aeprs][spare, aeprs][reaps, aeprs][rapes, aeprs][presa, aeprs][prase, aeprs][pears, aeprs][parse, aeprs][pares, aeprs][asper, aeprs][apres, aeprs][apers, aeprs]
+Size: 11[talers, aelrst][stelar, aelrst][staler, aelrst][slater, aelrst][salter, aelrst][ratels, aelrst][laster, aelrst][estral, aelrst][artels, aelrst][alters, aelrst][alerts, aelrst]
+Size: 10[tesla, aelst][teals, aelst][tales, aelst][taels, aelst][stela, aelst][steal, aelst][stale, aelst][slate, aelst][setal, aelst][least, aelst]
+Size: 9[spacer, aceprs][secpar, aceprs][scrape, aceprs][recaps, aceprs][parsec, aceprs][pacers, aceprs][escarp, aceprs][crapes, aceprs][capers, aceprs]
+Size: 9[stearin, aeinrst][stainer, aeinrst][retsina, aeinrst][retinas, aeinrst][retains, aeinrst][ratines, aeinrst][nastier, aeinrst][antsier, aeinrst][anestri, aeinrst]
+
+Anagram Family's with length 8
+Size: 8[traces, acerst][recast, acerst][reacts, acerst][crates, acerst][caters, acerst][caster, acerst][cartes, acerst][carets, acerst]
+Size: 8[seringa, aeginrs][searing, aeginrs][reginas, aeginrs][regains, aeginrs][reagins, aeginrs][gainers, aeginrs][erasing, aeginrs][earings, aeginrs]
+Size: 8[spale, aelps][sepal, aelps][salep, aelps][pleas, aelps][peals, aelps][pales, aelps][leaps, aelps][lapse, aelps]
+Size: 8[seral, aelrs][reals, aelrs][rales, aelrs][lears, aelrs][laser, aelrs][lares, aelrs][earls, aelrs][arles, aelrs]
+Size: 8[spears, aeprss][sparse, aeprss][spares, aeprss][repass, aeprss][prases, aeprss][passer, aeprss][parses, aeprss][aspers, aeprss]
+Size: 8[teas, aest][seta, aest][seat, aest][sate, aest][etas, aest][eats, aest][east, aest][ates, aest]
+Size: 8[treens, eenrst][ternes, eenrst][tenser, eenrst][resent, eenrst][rentes, eenrst][renest, eenrst][nester, eenrst][enters, eenrst]
+Size: 8[spire, eiprs][spier, eiprs][speir, eiprs][ripes, eiprs][prise, eiprs][pries, eiprs][piers, eiprs][peris, eiprs]
+
+Last Anagram Family
+Size: 1[xu, ux]
